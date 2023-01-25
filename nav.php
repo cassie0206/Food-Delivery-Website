@@ -266,7 +266,7 @@ $link = mysqli_connect($dbservername,$dbusername,$dbpassword,$dbname);
              -->
         <h3>Search</h3>
         <div class=" row  col-xs-8">
-          <form class="form-horizontal" action="test.php" method="post">
+          <form class="form-horizontal" action="search.php" method="post">
             <div class="form-group">
               <label class="control-label col-sm-1" for="Shop">Shop</label>
               <div class="col-sm-5">
